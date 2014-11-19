@@ -14,6 +14,9 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# blender files
+*.blend1
+
 # =========================
 # Operating System Files
 # =========================
